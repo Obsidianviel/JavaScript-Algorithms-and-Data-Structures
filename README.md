@@ -1,4 +1,4 @@
 
-# FreeCodeCamp Projects
+# JavaScript Algorithms and Data Structures
 
-This repository contains my projects and from the FreeCodeCamp curriculum. Each project demonstrates the skills learned in various JavaScript challenges, algorithms, and front-end development exercises.
+This repository contains my solutions to the JavaScript Algorithms and Data Structures challenges from FreeCodeCamp. Each file showcases various algorithms and data structures implemented in JavaScript.
